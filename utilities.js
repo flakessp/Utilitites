@@ -129,3 +129,9 @@ function removeModalWindow() {
   var modalWindow = document.querySelector('.modal-overlay');
   modalWindow.remove();
 }
+
+//Current Time for timestamps and rnd
+function getCurrentTime() {
+  var now = new Date();
+  return now.getTime();
+}
