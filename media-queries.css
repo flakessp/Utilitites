@@ -1,3 +1,24 @@
+/* Universal one */
+
+/*suits for iphone4-5*/
+@media only screen
+and (min-device-width: 320px){
+
+}
+
+/*suits for iphone6*/
+@media only screen
+and (min-device-width: 375px){
+
+}
+
+/*suits for iphone6+*/
+@media only screen
+and (min-device-width: 414px){
+
+}
+
+
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
